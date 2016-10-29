@@ -1,1 +1,2 @@
-# npm-template
+# npm-template-firebase
+
